@@ -8,9 +8,9 @@ The notebook was developed in **Google Colab** and retrieves data directly from 
 ## Overview
 The notebook performs the following steps:
 1. **Download historical data** (last 15 years) for a basket of selected ETFs:
-   - `EXS1.DE` (MSCI Emerging Markets)  
+   - `EXS1.DE` (DAX)  
    - `CSMIB.MI` (FTSE MIB)  
-   - `SXRW.DE` (MSCI World)  
+   - `SXRW.DE` (FTSE 100)  
    - `CSSPX` (S&P 500)  
 2. **Compute daily log returns**.  
 3. **Build the portfolio** with equal weights.  
